@@ -1,1 +1,1 @@
-# KNU mobile development Labaratory work 1
+# KNU mobile development Laboratory work 1
